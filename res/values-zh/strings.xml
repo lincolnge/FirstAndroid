@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, HelloTabWidgetActivity!</string>
+    <string name="app_name">HelloTabWidget</string>
+    <string name="songs">歌曲</string>
+    <string name="albums">相册</string>
+    <string name="vedios">视频</string>
+    
+</resources>
